@@ -1,10 +1,17 @@
-# 👋 Hey, ich bin Patrick
+# 👋 Hey, ich bin Patrick  
 
-🚀 **Softwareenngineer & Dozent** 
+🚀 **Software Engineer & Dozent für AI & Digitalisierung**  
+💡 Leidenschaft für moderne Webtechnologien, Bildung & kreative Projekte  
 
-📍 Stabsstelle Geschäftsführung | Projektleitung | Dozent 
+---
 
-Gründer von [Studyio](https://studyio.de) – KI Tool für Lehrkräfte | Work in Progress
+### 🧠 Über mich
+Ich entwickle digitale Lösungen, die **Alltag vereinfachen und inspirieren** – von KI-Tools bis zu Lernplattformen.  
+Mein Fokus liegt auf **Clean Code, klarer UI/UX und sinnvoller Automatisierung**.  
+
+Ich arbeite mit modernen Technologien wie:
+```ts
+Next.js • React • TypeScript • Tailwind • Node.js • SQL • C#
 
 
 
