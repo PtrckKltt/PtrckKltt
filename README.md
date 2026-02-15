@@ -12,7 +12,7 @@ die tat um.
 Desweiteren interessieren mich Themen wie
 - Projektmanagement
 - Persönlichkeitsentwicklung
-- Verantwortung für Projekte und eine gute zusammenarbeit im team
+- Verantwortung für Projekte und eine gute zusammenarbeit im Team
 
 Ich arbeite mit modernen Technologien wie:
 ```ts
