@@ -1,11 +1,18 @@
 # 👋 Hey, ich bin Patrick  
 
-🚀 **Software Engineer & Dozent für EDV & AI **  
+🚀 **Software Engineer mit Projektverantwortung & Dozent für EDV sowie AI **  
 💡 Leidenschaft für moderne Webtechnologien, spannende Projekte & Weiterentwicklung
 
 ---
 
 ### 🧠 Über mich
+Ich bin begeisterter Fullstack Developer und setze gerne gut durchdachte & stabile Backend Architekturen sowie moderne und ansprechende Frontends in 
+die tat um. 
+
+Desweiteren interessieren mich Themen wie
+- Projektmanagement
+- Persönlichkeitsentwicklung
+- Verantwortung für Projekte und eine gute zusammenarbeit im team
 
 Ich arbeite mit modernen Technologien wie:
 ```ts
