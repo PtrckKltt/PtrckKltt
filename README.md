@@ -9,7 +9,7 @@
 
 Ich arbeite mit modernen Technologien wie:
 ```ts
-Next.js • React • TypeScript • Tailwind • Node.js • SQL • C#
+Next.js • React • TypeScript • Tailwind • Node.js • ReactNative • SQL • C#
 
 
 
