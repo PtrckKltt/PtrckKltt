@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Patrick  
 
-🚀 Software Engineer mit Projektverantwortung & Dozent für EDV sowie AI
+🚀 Software Engineer mit Projektverantwortung & Dozent für EDV sowie AI**
 💡 Leidenschaft für moderne Webtechnologien, spannende Projekte & Weiterentwicklung
 
 ---
