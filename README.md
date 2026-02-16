@@ -11,6 +11,7 @@ die tat um.
 
 Desweiteren interessieren mich Themen wie
 - Projektmanagement
+- Scrum
 - Persönlichkeitsentwicklung
 - Verantwortung für Projekte und eine gute zusammenarbeit im Team
 
